@@ -1,2 +1,2 @@
-# JavaScritp-Programs
+# JavaScript-Programs
 My JavaScript programs
